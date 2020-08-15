@@ -92,7 +92,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #183026;
+		background-color: #403e33;
 		background-image: url("images/overlay.png"), url("https://s3-view.2heng.xin/aws_cached/2020/05/31/b87ea4be6981f823794ec02daa291116.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
