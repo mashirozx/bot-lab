@@ -92,8 +92,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/bg.png");
+		background-color: #403e33;
+		background-image: url("images/overlay.png?v1"), url("https://s3-view.2heng.xin/aws_cached/2020/05/31/b87ea4be6981f823794ec02daa291116.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
@@ -104,7 +104,7 @@ input, select, textarea {
 		font-weight: 300;
 		letter-spacing: 1px;
 		color: #3a3939;
-		text-shadow: 0 0 0.5px rgba(58, 57, 57, 0.25);
+		text-shadow: 0 0 0.5px rgba(64, 62, 51, 0.25);
 		-webkit-text-stroke: 0.25px;
 	}
 
@@ -2361,7 +2361,7 @@ input, select, textarea {
 
 			body {
 				background-color: #203936;
-				background-image: url("images/overlay.png"), url("../../images/bg-alt.png");
+				background-image: url("images/overlay.png?v1"), url("../../images/bg-alt.png?v1");
 				background-repeat: repeat, no-repeat;
 				background-size: auto, 100% auto;
 				background-position: top left, top center;
